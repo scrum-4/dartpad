@@ -30,3 +30,5 @@ start.bat 設定
 
 set GIT_HOME=%Disk%:\portablegit\bin\
 set GIT_SSH=%Disk%:\putty\plink.exe
+
+最後確認近端的 private key 是取 putty 設定或 .ssh/config 中的設定
